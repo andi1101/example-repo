@@ -4,7 +4,7 @@ while count <= 5:
     print(count)
     count += 1
 
-[root@python w3docs]# cat zz2_if-else-while_andi.py
+
 # If statement
 x = 10
 if x > 0:
