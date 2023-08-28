@@ -44,3 +44,4 @@ def square(x):
 # Call the function
 print(square(5))
 
+print("scriptul var.py a rulat cu succes")
